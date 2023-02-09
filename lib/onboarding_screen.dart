@@ -48,7 +48,10 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                 ),
 
                 // dot indicator
-                SmoothPageIndicator(controller: _controller, count: 3),
+                SmoothPageIndicator(
+                  controller: _controller,
+                  count: 3,
+                ),
 
                 // next or done
                 onLastPage

@@ -1,4 +1,4 @@
-# onboarding screen  with smooth page indicator
+# onboarding screen with smooth page indicator
 
 A new Flutter project.
 
